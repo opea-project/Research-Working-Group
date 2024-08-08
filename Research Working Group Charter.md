@@ -21,7 +21,7 @@ Making new open source repo usable and popular requires: 1. Ease of use 2. frequ
 3. Customers/partners using the code
 
 ## Decision-making Governance
-1. Win the CUR proposal 2. contribute innovative code to OPEA 3. Customers/partners using the code
+Decisions are subject to approval of the TSC. All plans will be ratified by bringing them before the Technical Steering Committee (TSC). Quarterly updates will be provided to the TSC.
 
 ## Risks
 1. not winning the CUR budget
